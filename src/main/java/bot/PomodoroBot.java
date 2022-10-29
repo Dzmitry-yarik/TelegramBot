@@ -18,7 +18,7 @@ public class PomodoroBot extends TelegramLongPollingCommandBot {
     public static String chatId;
     public static final int WORK = 5;
     public static final int BREAK = 1;
-//
+
     public PomodoroBot() throws TelegramApiException {
         TelegramBotsApi botsApi = new TelegramBotsApi(DefaultBotSession.class);
         try {
