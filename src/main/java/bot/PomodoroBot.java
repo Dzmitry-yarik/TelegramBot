@@ -100,5 +100,4 @@ public class PomodoroBot extends TelegramLongPollingCommandBot {
         }
         return true;
     }
-
 }
