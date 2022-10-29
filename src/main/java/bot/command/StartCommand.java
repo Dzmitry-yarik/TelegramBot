@@ -1,4 +1,4 @@
-package bot;
+package bot.command;
 
 
 import org.telegram.telegrambots.meta.api.objects.Chat;

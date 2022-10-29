@@ -1,4 +1,4 @@
-package bot;
+package bot.command;
 
 import bot.PomodoroBot;
 import org.telegram.telegrambots.extensions.bots.commandbot.commands.BotCommand;

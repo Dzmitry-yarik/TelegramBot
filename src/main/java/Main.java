@@ -1,5 +1,3 @@
-package bot;
-
 import bot.PomodoroBot;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 

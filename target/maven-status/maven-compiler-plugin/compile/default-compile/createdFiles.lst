@@ -1,0 +1,5 @@
+bot\command\HelpCommand.class
+bot\PomodoroBot.class
+Main.class
+bot\command\StartCommand.class
+bot\command\ServiceCommand.class

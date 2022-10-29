@@ -1,7 +1,7 @@
 package bot;
 
-//import bot.command.HelpCommand;
-//import bot.command.StartCommand;
+import bot.command.HelpCommand;
+import bot.command.StartCommand;
 import org.telegram.telegrambots.extensions.bots.commandbot.TelegramLongPollingCommandBot;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
